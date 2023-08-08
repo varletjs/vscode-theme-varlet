@@ -5,6 +5,7 @@
   "displayName": "vscode-theme-varlet",
   "description": "A vscode theme for varlet",
   "publisher": "haoziqaq",
+  "author": "haoziqaq <357229046@qq.com>",
   "version": "0.0.0",
   "categories": [
     "Themes"
