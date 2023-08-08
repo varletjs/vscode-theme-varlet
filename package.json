@@ -28,7 +28,7 @@
     ]
   },
   "scripts": {
-    "release": "vsce package --no-dependencies && vsce publish --no-dependencies"
+    "release": "pnpm version patch && vsce package --no-dependencies && vsce publish --no-dependencies"
   },
   "repository": {
     "type": "git",
