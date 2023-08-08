@@ -1,0 +1,39 @@
+{
+  "name": "vscode-theme-varlet",
+  "private": true,
+  "icon": "./icon.png",
+  "displayName": "vscode-theme-varlet",
+  "description": "A vscode theme for varlet",
+  "publisher": "haoziqaq",
+  "version": "0.0.0",
+  "categories": [
+    "Themes"
+  ],
+  "files": [
+    "themes"
+  ],
+  "engines": {
+    "vscode": "^1.56.0",
+    "pnpm": ">=8.0"
+  },
+  "packageManager": "pnpm@8.0.0",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Varlet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/varlet-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varletjs/vscode-theme-varlet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varletjs/vscode-theme-varlet/issues"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.17.0"
+  }
+}
