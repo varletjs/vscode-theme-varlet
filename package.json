@@ -1,7 +1,7 @@
 {
   "name": "vscode-theme-varlet",
   "private": true,
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "displayName": "vscode-theme-varlet",
   "description": "A vscode theme for varlet",
   "publisher": "haoziqaq",
@@ -26,6 +26,9 @@
         "path": "./themes/varlet-dark.json"
       }
     ]
+  },
+  "scripts": {
+    "release": "vsce package --no-dependencies && vsce publish --no-dependencies"
   },
   "repository": {
     "type": "git",
