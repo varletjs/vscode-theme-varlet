@@ -248,16 +248,12 @@
       }
     },
     {
-      "scope": ["entity", "entity.name"],
-      "settings": {
-        "foreground": "#80a665"
-      }
-    },
-    {
       "scope": [
         "entity.name.function",
         "entity.other.attribute-name",
-        "invalid.deprecated.entity.other.attribute-name.html"
+        "invalid.deprecated.entity.other.attribute-name.html",
+        "entity",
+        "entity.name"
       ],
       "settings": {
         "foreground": "#83BDEE"
