@@ -152,7 +152,7 @@
     "menu.separatorBackground": "#1e1e1e",
     "editorStickyScroll.background": "#1e1e1e",
     "editorStickyScrollHover.background": "#1e1e1e",
-    "editorInlayHint.foreground": "#666666",
+    "editorInlayHint.foreground": "#888",
     "editorInlayHint.background": "#1e1e1e",
     "settings.headerForeground": "#80B3FF",
     "settings.modifiedItemIndicator": "#80B3FF",
@@ -199,7 +199,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#666666"
+        "foreground": "#888"
       }
     },
     {
