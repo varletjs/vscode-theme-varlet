@@ -1,3 +1,3 @@
 # VSCode Theme Varlet
 
-### Status: Preview
+A vscode theme for varlet
