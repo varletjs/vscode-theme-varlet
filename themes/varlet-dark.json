@@ -1,5 +1,6 @@
 {
   "colors": {
+    "editorSuggestWidget.background": "red",
     "foreground": "#d4d4d4",
     "descriptionForeground": "#c1c1c1",
     "focusBorder": "#1e1e1e00",
@@ -23,7 +24,9 @@
     "input.border": "#303030",
     "input.foreground": "#d4d4d4",
     "input.placeholderForeground": "#c1c1c1",
-    "inputOption.activeBackground": "#c1c1c1",
+    "inputOption.activeBorder": "#80B3FF",
+    "inputOption.activeBackground": "#80B3FF",
+    "inputOption.activeForeground": "#333333",
     "badge.foreground": "#d4d4d4",
     "badge.background": "#303030",
     "progressBar.background": "#80B3FF",
